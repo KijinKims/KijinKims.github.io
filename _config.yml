@@ -100,9 +100,6 @@ author:
   location         : "Saarbrücken, Germany / Busan, South Korea"
   email            : "skkujin@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:skkujin@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kijin.kim.37625/"
