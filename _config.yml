@@ -98,14 +98,17 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Master student who studies Bioinformatics in Europe, Germany."
   location         : "Saarbrücken, Germany"
-  email            : "skkujin@gmail.com"
+  email            : 
   links:
-    - label: "Facebook"
+    - label: #"Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kijin.kim.37625/"
-    - label: "Linkedin"
+    - label: #"Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kijin-kim-50695b150/"
+    - label: #"Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:skkujin@gmail.com"
 
 # Site Footer
 footer:
