@@ -100,13 +100,13 @@ author:
   location         : "Saarbrücken, Germany"
   email            : 
   links:
-    - label: #"Facebook"
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kijin.kim.37625/"
-    - label: #"Linkedin"
+    - label: ""
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kijin-kim-50695b150/"
-    - label: #"Email"
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:skkujin@gmail.com"
 
