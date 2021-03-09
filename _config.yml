@@ -103,7 +103,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kijin.kim.37625/"
-    - label: "Linked In"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kijin-kim-50695b150/"
 
@@ -113,7 +113,7 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kijin.kim.37625/"
-    - label: "Linked In"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/kijin-kim-50695b150/"
 
